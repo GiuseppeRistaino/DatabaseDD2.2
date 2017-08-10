@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>868</width>
+    <height>666</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="label">
+     <property name="text">
+      <string>&quot;&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;span style=&quot; font-size:15pt; font-weight:600;&quot;&gt;Incantesimo&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&quot;</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelNome">
+     <property name="text">
+      <string>Nome: </string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelScuola">
+     <property name="text">
+      <string>Scuola: </string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelLivello">
+     <property name="text">
+      <string>Livello: </string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelClasse">
+     <property name="text">
+      <string>Classe: </string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelRaggioAzione">
+     <property name="text">
+      <string>Raggio di azione: </string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelRestInc">
+     <property name="text">
+      <string>Resistenza agli incantesimi: </string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelTiroSalvezza">
+     <property name="text">
+      <string>Tiro Salvezza: </string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelTempoLancio">
+     <property name="text">
+      <string>Tempo di lancio: </string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelDurata">
+     <property name="text">
+      <string>Durata: </string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelBersaglio">
+     <property name="text">
+      <string>Bersaglio: </string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelComponenti">
+     <property name="text">
+      <string>Componenti: </string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="labelDescrizione">
+     <property name="text">
+      <string>Descrizione: </string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
